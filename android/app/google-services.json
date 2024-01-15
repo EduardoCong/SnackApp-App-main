@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368813360963",
+    "project_id": "snackapp-417d2",
+    "storage_bucket": "snackapp-417d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368813360963:android:03e9f3ebfbced6fe6a91f6",
+        "android_client_info": {
+          "package_name": "com.example.snackapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPk4OhuCoYwNwZsdAssb_fILpyybBYobc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
